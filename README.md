@@ -38,3 +38,9 @@ pip install rise
 ```bash
 juptyer notebook
 ```
+
+# Path to contribute to qiskit
+
+Run qiskit from source
+
+Check error, and fix
